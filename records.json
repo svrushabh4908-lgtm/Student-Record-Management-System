@@ -1,0 +1,53 @@
+Enter your choice (1-6): 1
+
+--- Add New Record ---
+Enter student name: Vrushabh Sonawane
+Enter course name (e.g., MCA): MCA
+Enter semester (1-6): 1
+Enter email address: vrushabh@example.com
+Enter 10-digit phone number: 8591890864
+Record added successfully with ID: 1
+
+=============================================
+   STUDENT RECORD MANAGEMENT SYSTEM
+=============================================
+1. Add Record
+2. View All Records
+3. Search Record
+4. Update Record
+5. Delete Record
+6. Exit
+=============================================
+Enter your choice (1-6): 1
+
+--- Add New Record ---
+Enter student name: 
+Input cannot be empty. Please try again.
+Enter student name: jitesh vishwakarma
+Enter course name (e.g., MCA): MCA
+Enter semester (1-6): 1
+Enter email address: jitesh vishwakarma 
+Invalid email format. Example: name@example.com
+Enter email address: jitesh@example.com
+Enter 10-digit phone number: 9892918569
+Record added successfully with ID: 2
+
+=============================================
+   STUDENT RECORD MANAGEMENT SYSTEM
+=============================================
+1. Add Record
+2. View All Records
+3. Search Record
+4. Update Record
+5. Delete Record
+6. Exit
+=============================================
+Enter your choice (1-6): 1
+
+--- Add New Record ---
+Enter student name: anikt kulkarni
+Enter course name (e.g., MCA): MCA
+Enter semester (1-6): 1
+Enter email address: ankit@example.com
+Enter 10-digit phone number: 6372859876
+Record added successfully with ID: 3
